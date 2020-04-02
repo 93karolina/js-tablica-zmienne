@@ -1,4 +1,4 @@
 let dom=1;
-let ogródek=2;
-let płot=3;
-let array=[dom, ogródek, płot]
+let ogrodek=2;
+let plot=3;
+let array=[dom, ogrodek, plot]
